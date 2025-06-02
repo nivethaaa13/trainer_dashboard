@@ -4,24 +4,24 @@ A simple and mobile-friendly Flutter app for personal trainers to track daily ac
 
 ---
 
-## ✨ Features
+## Features
 
-- 👋 Personalized greeting header (e.g., "Good Morning, Ayush!")
-- 📅 Calendar date picker
-- 📌 Today’s bookings with time slots
-- 💰 Weekly earnings overview
-- ⏰ Next upcoming session preview
-- ✅ Profile status indicator (e.g., Verified)
-- ➕ Add New Slot screen with:
+- Personalized greeting header (e.g., "Good Morning, Ayush!")
+- Calendar date picker
+- Today’s bookings with time slots
+- Weekly earnings overview
+- Next upcoming session preview
+- Profile status indicator (e.g., Verified)
+- Add New Slot screen with:
   - Name input
   - Date picker
   - Time picker
-- 🌗 Dark/Light mode toggle
-- 🔔 Notification bell icon
+- Dark/Light mode toggle
+- Notification bell icon
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 > You can upload your emulator screenshots here for visuals  
 > Example:
