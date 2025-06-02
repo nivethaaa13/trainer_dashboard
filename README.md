@@ -1,16 +1,53 @@
-# trainer_dashboard
+# Trainer Dashboard App
 
-A new Flutter project.
+A simple and mobile-friendly Flutter app for personal trainers to track daily activity, manage sessions, and view bookings at a glance.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 👋 Personalized greeting header (e.g., "Good Morning, Ayush!")
+- 📅 Calendar date picker
+- 📌 Today’s bookings with time slots
+- 💰 Weekly earnings overview
+- ⏰ Next upcoming session preview
+- ✅ Profile status indicator (e.g., Verified)
+- ➕ Add New Slot screen with:
+  - Name input
+  - Date picker
+  - Time picker
+- 🌗 Dark/Light mode toggle
+- 🔔 Notification bell icon
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+> You can upload your emulator screenshots here for visuals  
+> Example:
+> - Dashboard View  
+> - Add New Slot View  
+> - Dark Mode Toggle
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/)
+- Dart
+- Material Design widgets
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/nivethaaa13/trainer_dashboard.git
+cd trainer_dashboard
+flutter pub get
+flutter run
+
+
+
