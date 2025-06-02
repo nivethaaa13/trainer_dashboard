@@ -22,16 +22,15 @@ A simple and mobile-friendly Flutter app for personal trainers to track daily ac
 ---
 
 ## Screenshots
+<img width="310" alt="Screenshot 2025-06-02 at 6 11 49 PM" src="https://github.com/user-attachments/assets/05a577f7-4236-40ea-a311-173b2ce3e73a" />
 
-> You can upload your emulator screenshots here for visuals  
-> Example:
-> - Dashboard View  
-> - Add New Slot View  
-> - Dark Mode Toggle
+<img width="310" alt="Screenshot 2025-06-02 at 6 13 35 PM" src="https://github.com/user-attachments/assets/a77f9a90-a69f-454a-9c3a-fba9708ddf9e" />
+
+<img width="309" alt="Screenshot 2025-06-02 at 6 13 50 PM" src="https://github.com/user-attachments/assets/ec2ddc47-624e-4fef-b2b7-7369bc1d3b91" />
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [Flutter](https://flutter.dev/)
 - Dart
@@ -39,7 +38,7 @@ A simple and mobile-friendly Flutter app for personal trainers to track daily ac
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the project locally:
 
