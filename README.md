@@ -29,6 +29,12 @@ A simple and mobile-friendly Flutter app for personal trainers to track daily ac
 <img width="309" alt="Screenshot 2025-06-02 at 6 13 50 PM" src="https://github.com/user-attachments/assets/ec2ddc47-624e-4fef-b2b7-7369bc1d3b91" />
 
 ---
+## 🔗 Key Files
+
+- [`lib/main.dart`](lib/main.dart) – Main UI layout and app logic
+- [`README.md`](README.md) – Project overview and setup instructions
+  
+---
 
 ## Built With
 
